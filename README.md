@@ -16,3 +16,6 @@ A professional desktop voice assistant that uses FaceNet (512-D embeddings) trai
 
 ## Quick start
 1. Create & activate venv:
+
+## Author
+Aryan Singh
