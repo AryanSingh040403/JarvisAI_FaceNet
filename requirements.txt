@@ -1,0 +1,25 @@
+# Core
+pyttsx3
+SpeechRecognition
+pyaudio
+wikipedia
+requests
+pywhatkit
+pyautogui
+opencv-python
+numpy
+Pillow
+
+# FaceNet / embeddings
+facenet-pytorch
+torch
+
+# Utilities (optional recommended)
+pycaw
+comtypes
+python-dotenv
+pygetwindow
+pyscreeze
+mouseinfo
+pyrect
+twilio
